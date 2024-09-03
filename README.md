@@ -11,7 +11,8 @@
 <br>
 
 ### Download
-📥 Download the BOT-CHAT apk <a href="[https://github.com/Imon-404/App/raw/main/BOT-CHAT.apk](https://github.com/Imon-404/App/raw/main/BOT-CHAT.apk
+📥 Download the BOT-CHAT apk <a href="[download]([https://github.com/Imon-404/App/raw/main/BOT-CHAT.apk](https://github.com/Imon-404/App/raw/main/BOT-CHAT.apk
+)
 )">Download</a>.
 <br>
 <br>
