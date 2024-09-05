@@ -6,7 +6,7 @@
 <br>
 
 ### Download
-📥 Download the BOT-CHAT apk <a href="https://github.com/Imon-404/App/raw/main/BOT-CHAT.apk">Download</a>.
+📥 Download the BOT-CHAT apk <a href="https://github.com/Imon-404/BOT-CHAT-APk/raw/main/BOT-CHAT.apk">Download</a>.
 <br>
 <br>
 
